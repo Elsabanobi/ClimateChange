@@ -1,0 +1,12 @@
+@media only screen and (max-width: 768px) {#center{width: 90vw; margin: 5vh auto;font-size:20px;text-align:center;}}
+@media only screen and (min-width: 768px) {#center{width: 420px;margin: 5vh auto;font-size:20px;text-align:center;}}
+#goed{color:green;font-size:25px;font-weight:bold;}
+#redelijk{color:hsl(85, 100%, 19%);font-size:25px;font-weight:bold;}
+#matig{color:#ae8b0c;font-size:25px;font-weight:bold;}
+#slecht{color:#ff4500;font-size:25px;font-weight:bold;}
+#heelslecht{color:red;font-size:25px;font-weight:bold;}
+.temp {color:#a9254d;}
+.temptt {color:#a9254d;}
+.rain {color:darkblue;}
+.sun {color: crimson;}
+.day {color: #404040;}
